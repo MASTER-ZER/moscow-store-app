@@ -5,7 +5,6 @@ build/
 .pub/
 .pub-cache/
 *.iml
-*.lock
 .flutter-plugins
 .flutter-plugins-dependencies
 
@@ -22,3 +21,9 @@ Thumbs.db
 # Env
 .env
 .env.local
+
+# Node.js
+node_modules/
+package-lock.json
+package.json
+scripts/
