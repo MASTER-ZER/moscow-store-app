@@ -27,3 +27,7 @@ node_modules/
 package-lock.json
 package.json
 scripts/
+
+# Supabase CLI
+supabase/.gitignore
+supabase/config.toml
