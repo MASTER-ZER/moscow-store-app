@@ -31,3 +31,4 @@ scripts/
 # Supabase CLI
 supabase/.gitignore
 supabase/config.toml
+.vercel

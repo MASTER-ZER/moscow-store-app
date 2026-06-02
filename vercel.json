@@ -1,8 +1,4 @@
 {
-  "buildCommand": "flutter build web",
   "outputDirectory": "build/web",
-  "framework": "flutter",
-  "routes": [
-    { "source": "/**", "destination": "/index.html" }
-  ]
+  "routes": [{ "src": "/(.*)", "dest": "/index.html" }]
 }
