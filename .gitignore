@@ -32,3 +32,5 @@ scripts/
 supabase/.gitignore
 supabase/config.toml
 .vercel
+
+build.sh
